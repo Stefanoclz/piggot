@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">piggod</string>
+    <string name="inserisci_la_tua_risposta_qui">Inserisci la tua risposta qui:</string>
+    <string name="scrivi_qui">Scrivi qui</string>
+    <string name="cosa_fai">Cosa fai?</string>
+    <string name="invia">Invia</string>
+    <string name="restart">Restart</string>
+</resources>
